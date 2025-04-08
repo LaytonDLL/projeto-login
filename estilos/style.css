@@ -104,7 +104,7 @@ div.campo > input {
     font-size: 1em;
     width: calc(100% - 40px);
     height: 100%;
-    transform: translateY(-0px);
+    
     border: 0px;
     border-radius: 8px 8px 8px 8px;
     padding: 4px;
@@ -112,6 +112,7 @@ div.campo > input {
     left: 40px;
     top: 0;
     background-color: #81e4e0;
+    transform: translateY(-0px);
 }
 
 div.campo > input:focus-within {
