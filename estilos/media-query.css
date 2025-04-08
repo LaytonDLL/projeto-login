@@ -43,7 +43,7 @@ Gramdes telas: acima de 1200px
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
